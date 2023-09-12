@@ -1,4 +1,4 @@
-# Malenoma-Skin-Cancer-Detection-Usning-CNN
+# Skin-Cancer-CNN-Detection
 Building and Optimizing Melanoma Skin Detection Problem through Image Identification and Classification using CNN
 
 # Team Members: Amit Kumar Chaudhary, Shreeragh Chandrabose, Himanshu Yadav
@@ -48,6 +48,7 @@ os, pathlib, PIL
 google colab, drive
 matplotlib, sns
 
+## Download Dataset: https://drive.google.com/drive/folders/1XuhqVgIsqo7LXz4cGj3X4pPORYpdysCQ?usp=drive_link
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
